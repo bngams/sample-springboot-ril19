@@ -1,4 +1,4 @@
-package fr.cesi.rila19.samplespringdemo.demo;
+package fr.cesi.rila19.samplespringdemo.demo.controllers;
 
 import fr.cesi.rila19.samplespringdemo.demo.services.DemoService;
 import fr.cesi.rila19.samplespringdemo.demo.services.DemoServiceBis;
